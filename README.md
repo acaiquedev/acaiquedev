@@ -1,7 +1,7 @@
 ### Oi, Eu sou o Amaury Caique 👋
-⚡ Estudando UX/UI Design & Angular
-🧑 About me: I'm Tecnerd & Poeta
-✨ Seja forte & Corajoso 1:19
+- ⚡ Estudando UX/UI Design & React
+- 🧑 About me: I'm Tecnerd & Poeta
+- ✨ Seja forte & Corajoso 1:19
 <div>
   <a href="https://github.com/amaurycaique">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amaurycaique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
